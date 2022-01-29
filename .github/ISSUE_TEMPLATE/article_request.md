@@ -1,19 +1,19 @@
 ---
-name: Article request
-about: Suggest an article that should be translated for our blog
-title: 'Article Request: '
-labels: article
-assignees: DarkGhost7
+nama: Artikel permohonan
+tentang: Menyarankan sebuah artikel yang seharusnya diterjemahkan di blog kami
+judul: 'Artikel permohonan: '
+label: artikel
+penerima tugas: DarkGhost7
 
 ---
 
->Please add a short description of what is expected.
->Delete any options not relevant   
->ex: We need to add the tweet about `What is Yearn?` to the repo so it can be translated to all languages.
+>mohon tambahkan deskripsi singkat tentang apa yang diharapkan.
+>Hapus opsi yang tidak relevan   
+>contoh: Kita perlu menambahkan tweet tentang `Apa itu Yearn?` ke repo sehingga dapat diterjemahkan ke semua bahasa.
 
-**Type**: [`announcements`| `documentation` | `article` | `financials` | `newsletters` | `tweets` | `engineering` ]  
-**Link to the original article**: [article_name](article_url)
+**Tipe**: [`pengumuman`| `dokumentasi` | `artikel` | `finansial` | `koran` | `tweet` | `engineering` ]  
+**Tautan ke artikel asli**: [article_name](article_url)
 
-**Optional** if you already have it in markdown format, else we will find and add it.
-**Link to the .md file**: [article_name.md](article_url_on_github)  
+**Opsional** jika Anda sudah memilikinya dalam format markdown, jika tidak, kami akan menemukan dan menambahkannya.
+**tautan ke .md file**: [article_name.md](article_url_on_github)  
 
